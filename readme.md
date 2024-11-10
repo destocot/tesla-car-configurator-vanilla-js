@@ -22,11 +22,11 @@ To run this project locally:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/tesla-model-y-customizer.git
+   git clone https://github.com/destocot/tesla-car-configurator-vanilla-js.git
    ```
 2. Navigate into the project directory.
    ```bash
-   cd tesla-model-y-customizer
+   cd tesla-car-configurator-vanilla-js
    ```
 3. Open `index.html` in your browser to view the application.
 
